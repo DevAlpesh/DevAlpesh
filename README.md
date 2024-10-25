@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1> <h3 align="center">Senior Android Developer | Team Lead | 8+ Years of Experience</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<h1 align="center">Hi 👋, I'm Alpesh Raval</h1> <h3 align="center">Senior Android Developer | Team Lead | 8+ Years of Experience</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 🔭 I’m currently working on [Your Current Project / Company]
 
 🌱 I’m learning the latest in Android Jetpack, Compose, and edge computing
