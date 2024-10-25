@@ -4,13 +4,11 @@
 ### Senior Android Developer & Team Lead
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-handle)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-medium-profile)
 
 </div>
 
 ## 🚀 About Me
-Passionate Senior Android Developer and Team Lead with 8+ years of experience crafting robust, user-centric mobile applications. Specialized in building scalable solutions using modern Android technologies and best practices. Leading teams to deliver high-quality products while mentoring junior developers.
+Passionate Senior Android Developer and Team Lead with extensive experience in crafting robust, user-centric mobile applications. Skilled in building scalable, efficient solutions with the latest Android technologies and best practices, driving innovation from concept to deployment. Known for leading teams to deliver high-quality products and mentoring developers to reach their full potential.
 
 ## 💻 Technical Expertise
 
@@ -37,45 +35,12 @@ val skills = mapOf(
 )
 ```
 
-## 🎯 Featured Projects
-
-### 📱 [Project Name 1]
-*Revolutionary app that [solve specific problem]*
-- 🌟 [Key achievement/metric]
-- 💡 Implemented [specific technical challenge]
-- 🛠️ **Tech Stack**: Kotlin, Jetpack Compose, MVVM, Coroutines
-- 📥 [Download on Play Store](link)
-
-### 📱 [Project Name 2]
-*Innovative solution for [specific industry/problem]*
-- 🌟 [Key achievement/metric]
-- 💡 [Technical innovation implemented]
-- 🛠️ **Tech Stack**: Kotlin, Clean Architecture, Dagger Hilt
-- 📥 [Download on Play Store](link)
-
 ## 🏆 Achievements & Recognition
 
 - 🎓 Google Certified Associate Android Developer
 - 🌟 [Specific industry award/recognition]
 - 💼 Successfully led team of [X] developers
 - 📈 [Specific impact metrics, e.g., "Improved app performance by X%"]
-
-## ✍️ Technical Writing
-
-I regularly share my knowledge and experiences in Android development through technical articles:
-
-- 📝 [Article Title 1](link) - Brief description
-- 📝 [Article Title 2](link) - Brief description
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula)](https://github.com/YourUsername)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula)](https://github.com/YourUsername)
-
-</div>
 
 ## 🤝 Let's Connect!
 
