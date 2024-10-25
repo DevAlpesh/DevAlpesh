@@ -3,7 +3,7 @@
 # 👋 Hello, I'm Alpesh Raval 
 ### Senior Android Developer & Team Lead
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alpesh-raval/)
 
 </div>
 
@@ -35,21 +35,14 @@ val skills = mapOf(
 )
 ```
 
-## 🏆 Achievements & Recognition
-
-- 🎓 Google Certified Associate Android Developer
-- 🌟 [Specific industry award/recognition]
-- 💼 Successfully led team of [X] developers
-- 📈 [Specific impact metrics, e.g., "Improved app performance by X%"]
-
 ## 🤝 Let's Connect!
 
 I'm always interested in connecting with fellow developers and discussing Android development:
 
-- 💼 [LinkedIn](your-linkedin-profile)
-- 🐦 [Twitter](your-twitter-handle)
-- 📧 Email: your-email@example.com
-- 📝 [Medium/Blog](your-blog-link)
+- 💼 [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/alpesh-raval/))
+- 📧 Email: dev.alpesh91@gmail.com
+- 📱 Mobile: +91 63546 16326
+
 
 ---
 <div align="center">
