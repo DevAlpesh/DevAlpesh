@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Alpesh</h1> <h3 align="center">Senior Android Developer | Team Lead | 8+ Years of Experience</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameisjayant&label=Profile%20views&color=0e75b6&style=flat" alt="nameisjayant" /> </p>
-🔭 I’m currently working on [Your Current Project / Company Name]
+<h1 align="center">Hi 👋, I'm Alpesh</h1> <h3 align="center">Senior Android Developer | Team Lead | 8+ Years of Experience</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=nameisjayant&label=Profile%20views&color=0e75b6&style=flat" alt="DevAlpesh" /> </p>
+🔭 I’m currently working on Uveaa Australia Pty. Ltd.
 
 🌱 I’m expanding my knowledge in Android Jetpack, Compose, and Edge Computing
 
-👨‍💻 All of my projects are available at https://github.com/nameisjayant
+👨‍💻 All of my projects are available at https://github.com/DevAlpesh
 
 💬 Ask me about Android development, Kotlin, and building high-performance applications
 
-📫 How to reach me your.email@example.com
+📫 How to reach me dev.alpesh91@gmail.com
 
 📄 Know about my experiences LinkedIn or Resume
 
