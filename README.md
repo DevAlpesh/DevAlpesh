@@ -1,49 +1,94 @@
-# 👋 Hi there! I'm Alpesh Raval
+<div align="center">
 
-I'm a **Senior Android Developer** and **Team Lead** with over **8 years of experience** in creating high-quality, scalable Android applications. I enjoy leveraging my skills to build impactful mobile experiences and stay updated on the latest Android trends.
+# 👋 Hello, I'm Alpesh Raval 
+### Senior Android Developer & Team Lead
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-handle)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](your-medium-profile)
+
+</div>
+
+## 🚀 About Me
+Passionate Senior Android Developer and Team Lead with 8+ years of experience crafting robust, user-centric mobile applications. Specialized in building scalable solutions using modern Android technologies and best practices. Leading teams to deliver high-quality products while mentoring junior developers.
+
+## 💻 Technical Expertise
+
+```kotlin
+val skills = mapOf(
+    "Languages" to listOf("Kotlin 🔥", "Java"),
+    "Architecture" to listOf("MVVM", "Clean Architecture", "MVI"),
+    "Libraries" to listOf(
+        "Jetpack Compose",
+        "Coroutines & Flow",
+        "Dagger Hilt",
+        "Room",
+        "Retrofit",
+        "Navigation Component"
+    ),
+    "Testing" to listOf("JUnit", "Espresso", "Mockito"),
+    "Tools" to listOf(
+        "Android Studio",
+        "Git",
+        "Firebase",
+        "CI/CD",
+        "Play Console"
+    )
+)
+```
+
+## 🎯 Featured Projects
+
+### 📱 [Project Name 1]
+*Revolutionary app that [solve specific problem]*
+- 🌟 [Key achievement/metric]
+- 💡 Implemented [specific technical challenge]
+- 🛠️ **Tech Stack**: Kotlin, Jetpack Compose, MVVM, Coroutines
+- 📥 [Download on Play Store](link)
+
+### 📱 [Project Name 2]
+*Innovative solution for [specific industry/problem]*
+- 🌟 [Key achievement/metric]
+- 💡 [Technical innovation implemented]
+- 🛠️ **Tech Stack**: Kotlin, Clean Architecture, Dagger Hilt
+- 📥 [Download on Play Store](link)
+
+## 🏆 Achievements & Recognition
+
+- 🎓 Google Certified Associate Android Developer
+- 🌟 [Specific industry award/recognition]
+- 💼 Successfully led team of [X] developers
+- 📈 [Specific impact metrics, e.g., "Improved app performance by X%"]
+
+## ✍️ Technical Writing
+
+I regularly share my knowledge and experiences in Android development through technical articles:
+
+- 📝 [Article Title 1](link) - Brief description
+- 📝 [Article Title 2](link) - Brief description
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dracula)](https://github.com/YourUsername)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dracula)](https://github.com/YourUsername)
+
+</div>
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with fellow developers and discussing Android development:
+
+- 💼 [LinkedIn](your-linkedin-profile)
+- 🐦 [Twitter](your-twitter-handle)
+- 📧 Email: your-email@example.com
+- 📝 [Medium/Blog](your-blog-link)
 
 ---
+<div align="center">
 
-### 🔧 Technologies & Skills
-- **Languages:** Java, Kotlin
-- **Frameworks/Libraries:** Jetpack Compose, Room, Retrofit, Dagger, etc.
-- **Tools:** Android Studio, Git, Gradle, Firebase, etc.
-- **Architecture & Patterns:** MVVM, Clean Architecture, Dependency Injection, etc.
+*"First, solve the problem. Then, write the code." – John Johnson*
 
----
-
-### 📌 Featured Projects
-1. **[Project Name 1](link-to-project)**  
-   *Description*: Briefly explain the project, its purpose, and the technologies used.
-   - *Key Features*: List a few notable features or achievements.
-   - *Screenshots*: ![Screenshot](link-to-screenshot)
-
-2. **[Project Name 2](link-to-project)**  
-   *Description*: Explain the project and why it stands out.
-   - *Key Features*: Notable highlights.
-
----
-
-### 🏆 Achievements & Contributions
-- Contributed to **[Open Source Project](link-to-project)**: Explain the contributions made.
-- **Certifications:** List relevant certifications (e.g., Google Associate Android Developer).
-- **Awards/Recognition:** Any industry awards or accolades.
-
----
-
-### 📝 Writing & Articles
-- **[Blog on Medium/Dev.to](link-to-blog)**: Writing about Android development, clean architecture, and performance optimization.
-- **Recent Articles:**
-  - [Article Title 1](link-to-article)
-  - [Article Title 2](link-to-article)
-
----
-
-### 📫 Connect with Me
-- [LinkedIn](your-linkedin-profile)
-- [Twitter](your-twitter-handle)
-- **Email**: your-email@example.com
-
----
-
-Thanks for visiting my GitHub profile! Feel free to reach out if you’d like to collaborate or discuss Android development. 😊
+</div>
